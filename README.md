@@ -21,7 +21,7 @@ To get started with the Tic Tac Toe game, follow these steps:
 Clone the repository to your local machine:
 
 bash
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/FALISHA01/tic-tac-toe.git
 Navigate to the project directory:
 
 bash
